@@ -1,4 +1,4 @@
-# cryptowiki
+# Crypto Wiki (School Project)
 Crypto Wiki
 
 This is a basic website built using HTML & CSS. 
