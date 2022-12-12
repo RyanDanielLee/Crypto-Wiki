@@ -6,4 +6,4 @@ This website is an information guide on crypto currencies.
 *THIS INFO SHOULD NOT BE USED AS FINANCIAL ADVISE, AND SHOULD BE USED FOR INFORMATION PURPOSES*
 
 To view a live version of this website, visit: 
-ryanhtmlwebsite.netlify.app
+https://ryanhtmlwebsite.netlify.app/
